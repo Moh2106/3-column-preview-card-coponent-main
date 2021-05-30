@@ -65,7 +65,7 @@ button
   color: hsl(179, 100%, 13%);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 375px) {
   .contains
   {
     display: block;
