@@ -65,7 +65,7 @@ button
   color: hsl(179, 100%, 13%);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 720px) {
   .contains
   {
     display: block;
@@ -77,7 +77,7 @@ button
   .sedans, .suvs, .luxury
   {
     height: 400px;
-    width: 50%;
+    width: auto;
     padding: 20px;
   }
 
